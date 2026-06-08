@@ -1,6 +1,7 @@
 certifi==2026.5.20
 distlib==0.4.1
 filelock==3.29.1
+gunicorn==26.0.0
 packaging==26.2
 pipenv==2026.6.2
 platformdirs==4.10.0
